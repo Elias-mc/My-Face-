@@ -7,5 +7,6 @@ Solo html puro y css.. no se necesitan marcos o imágenes de lujo! Construí tod
 
 
 # Demostracion
-https://github.com/user-attachments/assets/0a602422-98e6-4d21-8619-4e8bbcc6d717
+https://github.com/user-attachments/assets/0ae0f875-5ad8-4993-bbc6-2a6104ca4776
+
 
